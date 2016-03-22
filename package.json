@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "roleplay-dark-theme",
+  "version": "0.0.1",
+  "description": "Thème du site Roleplay-With.me",
   "main": "theme.less",
   "keywords": [
 
